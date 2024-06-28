@@ -5,7 +5,7 @@
 > Mob: +48-790-577-064                                                                                      
 > G-mail: irenakhitrushka@gmail.com      
 > Telegram: @gennadevna95
-> [LinkedIn] ("https://www.linkedin.com/in/-722027236/")
+> LinkedIn: "https://www.linkedin.com/in/-722027236/"
 
 **ABOUT MYSELF**
 
@@ -27,6 +27,10 @@ function solution(str){
 }
 ```
 **WORK EXPERIENCE**
+
+**QA Engineer (Feature Team)**
+*Custom Games Studio*
+*Project description: social slot games*
 
 **LANGUAGES:**
 English - B1; Polish - B1; Russian – native.
