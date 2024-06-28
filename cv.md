@@ -1,21 +1,21 @@
 # Irena Khitrushka 
 
-**CONTACTS**
+## **CONTACTS**
 
 > Mob: +48-790-577-064                                                                                      
 > G-mail: irenakhitrushka@gmail.com      
 > Telegram: @gennadevna95
 > LinkedIn: "https://www.linkedin.com/in/-722027236/"
 
-**ABOUT MYSELF**
+## **ABOUT MYSELF**
 
 *I'm a Junior Developer with 2 years of experience as a QA Engineer in Game development. My goal is to create valuable products for society and bring interesting ideas to life through code.*
 
-**TOOLS**
+## **TOOLS**
 
-JIRA, TestRail, Postman, BrowserStack, DevTools, Confluence, Notion, Charles Proxy, Figma, Miro, HelpShift, Splunk, Kibana, Snowflake, VS Code, GitHub, HTML, CSS, JavaScript, Playwright, Jenkins.
+JIRA, TestRail, QasePostman, BrowserStack, DevTools, Confluence, Notion, Charles Proxy, Figma, Miro, HelpShift, Splunk, Kibana, Snowflake, VS Code, GitHub, HTML, CSS, JavaScript, Playwright, Jenkins.
 
-**CODE EXAMPLE**
+## **CODE EXAMPLE**
 
 ```
 function solution(str){
@@ -26,17 +26,23 @@ function solution(str){
   return s
 }
 ```
-**WORK EXPERIENCE**
+## **WORK EXPERIENCE**
 
 **QA Engineer (Feature Team)**
 *Custom Games Studio*
 *Project description: social slot games*
 
-**LANGUAGES:**
-English - B1; Polish - B1; Russian – native.
+## **LANGUAGES:**
 
-**EDUCATION**
-"Rolling scopes school": since June 2024 - Frontend Developer; “RedRover School”: 2024 – Automation testing (JavaScript); "Stormnet": 2022 - Manual QA; GrSMU: medical faculty - 2014 – 2020.
+* English - B1; 
+* Polish - B1; 
+* Russian – native.
+
+## **EDUCATION**
+* "Rolling scopes school": since June 2024 - Frontend Developer; 
+* “RedRover School”: 2024 – Automation testing (JavaScript); 
+* "Stormnet": 2022 - Manual QA; 
+* GrSMU: medical faculty - 2014 – 2020.
 
 
 
